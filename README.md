@@ -25,7 +25,8 @@ Users can:
 - TypeScript
 - MongoDB
 - Mongoose
-
+ 
+### Design
 
 - Used MVC architecture in the backend to separate routes, controllers, models, and middleware.
 - Used reusable React components (TaskForm, TaskList, TaskCard) to keep the frontend modular.
